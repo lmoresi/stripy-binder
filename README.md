@@ -12,3 +12,9 @@ _Sample images created with `stripy` illustrating the meshing capability, the ab
 
 Stripy is available through pypi: [https://pypi.org/project/stripy/](https://pypi.org/project/stripy/) as well as in
 docker form. This repository repackages the standard docker to work better with [binder](mybinder.org).
+
+### Binder:
+
+Launch the demonstration at [mybinder.org](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/lmoresi/stripy-binder/master)
+
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/lmoresi/stripy-binder/master)
